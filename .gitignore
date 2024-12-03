@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+.env
+.MyHTTPRequests.http
+rss-aggregator
+.DS_Store
+Thumbs.db
